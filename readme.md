@@ -18,3 +18,4 @@ Congrats, you have your own TEXT TO IMAGE generation website tool now!
 
 ## Technical Help
 - email me at shariqq.com@gmail.com if you have any business need on this kind of projects.
+- You can also hire me via my agency [CK Softwares](https://cksoftwares.com) based in Hyderabad — we provide all kinds of web, app, and tools development.
